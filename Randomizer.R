@@ -1,5 +1,5 @@
 # create list (vector) with "candidates"
-list <- c('Salvatore', 'Giulia', 'Marisa', 'Anna')
+list <- c('Team_member_1', 'Team_member_2', 'Team_member_3', 'Team_member_4')
 
 # randomly select items from list, 5 times, replace=TRUE solves the issue of a sample larger than the whole population
 sample(list, 5, replace=TRUE)
